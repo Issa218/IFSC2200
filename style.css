@@ -1,0 +1,31 @@
+#wrap{
+    border: double 4px #1A2A6C;
+    
+    height:500px;
+    
+}
+
+body{
+background-color:#F5F7FA ;
+}
+
+h1{
+    .volkhov-regular 
+        font-family: "Volkhov", serif;
+        font-weight: 400;
+        font-style: normal;
+    background-image: 
+    margin: 40px auto;
+    color:#333333;
+    text-align: center;
+    font-size:2.5rem;
+}
+
+nav ul li a{
+    .volkhov-regular 
+    font-family: "Volkhov", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#333333;
+
+}
