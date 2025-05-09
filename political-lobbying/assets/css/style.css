@@ -163,7 +163,8 @@ nav ul li a:hover{
 figure img{
     margin:auto;
     display:flex;
-    border:solid #8b0000;;
+    border:solid #8b0000;
+    position:relative;
 
 }
 
