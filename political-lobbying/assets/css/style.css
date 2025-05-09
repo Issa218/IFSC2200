@@ -19,6 +19,26 @@ html {
     margin: 40px auto; /* auto automatically centers text for all screen sizes*/
 
   }
+     .img-right{
+        float:right;
+        border:1px soild #c0c0c0;
+        padding:5px;
+        margin: 10px 0 10px 20px;
+        max-width:30vw;
+    }
+    .img-left{
+        float:left;
+        border:1px soild #c0c0c0;
+        padding:5px;
+        margin: 10px 20px 10px 0px;
+        max-width:30vw;
+    }
+    .img-center{
+        display:block;
+        margin:10px auto;
+        border:1px soild #c0c0c0;
+        padding:5px;
+    }
 
   /*  ---------------Responsive Images-----------------  */
   img{
@@ -146,7 +166,8 @@ figure img{
 
 figure{
   margin:0;
-
+  width: 100%;
+  border-radius: 4px;
 }
 
 #articles .post a {
