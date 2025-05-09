@@ -134,7 +134,8 @@ nav ul li a:hover{
 
 
 figure img{
-    margin:auto;
+    margin:10px auto;
+    padding: 0px;
     display:block;
     border:solid #8b0000;
     position:relative;
