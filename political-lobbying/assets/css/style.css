@@ -104,7 +104,7 @@ nav ul li a{
     background: white;
     font-size: .9rem;
     text-decoration:none;
-    border: 2px dashed #8b0000;
+    border: 2px solid #8b0000;
     padding: 7.5px 10px;
     background-color:#8b0000;
     background-color:rgba(240,248,255,.4);
