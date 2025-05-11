@@ -71,7 +71,7 @@ padding: 20px 40px;  /* can be used for margin */
 
 header.primary h1 a{
 color:#8b0000;
-text-shadow: white .4px .4px;
+text-shadow: #8b0000  .4px .4px;
 text-decoration:none;
 font-family: "Volkhov", serif;
 font-weight: 400;
